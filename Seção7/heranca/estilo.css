@@ -1,0 +1,32 @@
+/* BORDER E BACKGROUND NAO HERDA
+body {
+    color: red;
+    border: 1px solid blue;  
+} */
+
+/*
+.pagina p {
+    color: red; !important
+}
+
+.pagina p {
+    color: blue;
+}
+*/
+
+/* O seletor mais específico que outro a regra mais específica será aplicada! */
+* {
+    color: red;
+}
+
+h2 {
+    color: blue;
+}
+
+h2#amarelo {
+    color: yellow;  /* ID é mais epecífico que CLASS */
+}
+
+h2.verde {
+    color: green;
+}
