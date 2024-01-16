@@ -1,7 +1,7 @@
 # learningHTMLandCSS
 
 This is a repository of all my HTML and CSS learning so far, updated whenever I study something new.
-In this study i'll learn HTML5, CSS3, SASS, Bootstrap, JS, ES6, PHP, OO, MySQL, JQuery, MVC, APIs with the Udemy course.
+In this study i'll learn HTML5, CSS3, SASS, Bootstrap, JS, ES6, PHP, OO, MySQL, JQuery, MVC, APIs with the Udemy course.</br>
 Course link: https://www.udemy.com/course/web-completo/
 
 <div style="display: inline_block"><br/>
